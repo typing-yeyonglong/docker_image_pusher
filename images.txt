@@ -7,3 +7,4 @@ nvidia/cuda:12.4.1-base-ubuntu22.04
 nvidia/cuda:12.4.1-devel-ubuntu22.04
 apache/kafka:3.7.1
 provectuslabs/kafka-ui
+gitlab/gitlab-ce
