@@ -1,1 +1,1 @@
-pgvector/pgvector:pg16
+qwenllm/qwenvl:2-cu121
