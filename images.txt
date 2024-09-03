@@ -1,1 +1,1 @@
-node:20.11-alpine3.19
+langgenius/dify-sandbox:0.2.6
