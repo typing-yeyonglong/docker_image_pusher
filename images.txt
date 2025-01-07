@@ -1,1 +1,1 @@
-wandb/local:0.61.0
+vllm/vllm-openai:v0.6.6.post1
