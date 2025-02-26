@@ -1,1 +1,1 @@
-ghcr.io/speaches-ai/speaches:latest-cpu
+vllm/vllm-openai:0.7.3
