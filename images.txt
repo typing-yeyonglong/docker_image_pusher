@@ -1,1 +1,1 @@
-elasticdump/elasticsearch-dump
+vllm/vllm-openai:v0.8.4
