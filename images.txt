@@ -1,1 +1,1 @@
-pgvector/pgvector:pg17
+vllm/vllm-openai:v0.10.1.1
