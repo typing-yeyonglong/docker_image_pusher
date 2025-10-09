@@ -1,1 +1,1 @@
-vllm/vllm-openai:v0.10.2
+vllm/vllm-openai:v0.11.0
