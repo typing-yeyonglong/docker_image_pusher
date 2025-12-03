@@ -1,1 +1,1 @@
-langflowai/langflow:latest
+nvidia/cuda:12.6.0-devel-ubuntu22.04
