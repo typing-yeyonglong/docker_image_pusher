@@ -1,1 +1,1 @@
-arizephoenix/phoenix:latest
+litellm/litellm:latest
