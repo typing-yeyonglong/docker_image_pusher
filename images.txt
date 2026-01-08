@@ -1,2 +1,2 @@
 arizephoenix/phoenix:latest
-envoyproxy/ai-gateway:latest
+envoyproxy/gateway:latest
