@@ -1,1 +1,1 @@
-litellm/litellm:latest
+oven/bun:latest
