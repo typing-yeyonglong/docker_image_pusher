@@ -1,1 +1,1 @@
-oven/bun:latest
+caddy:latest
