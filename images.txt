@@ -1,1 +1,1 @@
-qwenllm/qwen3-asr:latest
+gojue/ecapture:latest
