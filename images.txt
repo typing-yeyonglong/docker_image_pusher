@@ -1,1 +1,1 @@
-casbin/casdoor:latest
+openresty/openresty:alpine
