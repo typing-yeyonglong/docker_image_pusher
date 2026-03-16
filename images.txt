@@ -1,16 +1,1 @@
-vllm/vllm-openai:v0.17.1
-busybox:latest
-langgenius/dify-api:1.13.0
-langgenius/dify-api:1.13.0
-langgenius/dify-api:1.13.0
-langgenius/dify-web:1.13.0
-postgres:15-alpine
-redis:6-alpine
-langgenius/dify-sandbox:0.2.12
-langgenius/dify-plugin-daemon:0.5.3-local
-ubuntu/squid:latest
-certbot/certbot
-nginx:latest
-semitechnologies/weaviate:1.27.0
-tensorchord/pgvecto-rs:pg16-v0.3.0
-downloads.unstructured.io/unstructured-io/unstructured-api:latest
+vllm/vllm-openai:v0.17.1-cu130
