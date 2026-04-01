@@ -1,1 +1,1 @@
-openpolicyagent/opa:latest
+openpolicyagent/opa:1.15.1-static
