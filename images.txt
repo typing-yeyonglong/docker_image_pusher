@@ -1,2 +1,2 @@
 apache/apisix:latest
-bitnami/etcd:latest
+bitnamilegacy/etcd:3.5.11
