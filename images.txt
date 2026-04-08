@@ -1,1 +1,2 @@
-openpolicyagent/opa:1.15.1-static
+apache/apisix:latest
+bitnami/etcd:latest
